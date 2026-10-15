@@ -1,0 +1,50 @@
+{"id": "q01", "question": "Who was the commander of the Apollo 11 mission?", "answer_keywords": ["Armstrong"], "gold_docs": ["Apollo 11"], "type": "person"}
+{"id": "q02", "question": "Which astronaut stayed in lunar orbit aboard the command module while the others landed on the Moon during Apollo 11?", "answer_keywords": ["Collins"], "gold_docs": ["Apollo 11"], "type": "person"}
+{"id": "q03", "question": "On what date did Apollo 11 land on the Moon?", "answer_keywords": ["July 20|20 July"], "gold_docs": ["Apollo 11"], "type": "date"}
+{"id": "q04", "question": "What was the name of the Apollo 11 lunar module?", "answer_keywords": ["Eagle"], "gold_docs": ["Apollo 11"], "type": "name"}
+{"id": "q05", "question": "What was the name of the Apollo 11 command module?", "answer_keywords": ["Columbia"], "gold_docs": ["Apollo 11"], "type": "name"}
+{"id": "q06", "question": "In which part of the Moon did Apollo 11 land?", "answer_keywords": ["Tranquillity|Tranquility"], "gold_docs": ["Apollo 11"], "type": "place"}
+{"id": "q07", "question": "What failure forced Apollo 13 to abort its Moon landing?", "answer_keywords": ["oxygen"], "gold_docs": ["Apollo 13"], "type": "cause"}
+{"id": "q08", "question": "Who was the commander of Apollo 13?", "answer_keywords": ["Lovell"], "gold_docs": ["Apollo 13"], "type": "person"}
+{"id": "q09", "question": "Who replaced Ken Mattingly as command module pilot on Apollo 13?", "answer_keywords": ["Swigert"], "gold_docs": ["Apollo 13"], "type": "person"}
+{"id": "q10", "question": "What was the name of the Apollo 13 lunar module that the crew used as a lifeboat?", "answer_keywords": ["Aquarius"], "gold_docs": ["Apollo 13"], "type": "name"}
+{"id": "q11", "question": "Which ship recovered the Apollo 13 crew after splashdown?", "answer_keywords": ["Iwo Jima"], "gold_docs": ["Apollo 13"], "type": "name"}
+{"id": "q12", "question": "Which engineer led the team that developed the Saturn V rocket?", "answer_keywords": ["von Braun"], "gold_docs": ["Saturn V"], "type": "person"}
+{"id": "q13", "question": "How many stages did the Saturn V have?", "answer_keywords": ["three|3"], "gold_docs": ["Saturn V"], "type": "number"}
+{"id": "q14", "question": "What propellants did the first stage of the Saturn V burn?", "answer_keywords": ["RP-1|kerosene", "oxygen"], "gold_docs": ["Saturn V"], "type": "list"}
+{"id": "q15", "question": "Which engines powered the first stage of the Saturn V?", "answer_keywords": ["F-1"], "gold_docs": ["Saturn V"], "type": "name"}
+{"id": "q16", "question": "How many Saturn V rockets were launched in total?", "answer_keywords": ["13|thirteen"], "gold_docs": ["Saturn V"], "type": "number"}
+{"id": "q17", "question": "Who was the first American in space?", "answer_keywords": ["Shepard"], "gold_docs": ["Project Mercury"], "type": "person"}
+{"id": "q18", "question": "Who was the first American to orbit the Earth?", "answer_keywords": ["Glenn"], "gold_docs": ["Project Mercury"], "type": "person"}
+{"id": "q19", "question": "What was the group of astronauts selected for Project Mercury called?", "answer_keywords": ["Mercury Seven|Mercury 7"], "gold_docs": ["Project Mercury"], "type": "name"}
+{"id": "q20", "question": "In which year did the first American crewed spaceflight take place?", "answer_keywords": ["1961"], "gold_docs": ["Project Mercury"], "type": "date"}
+{"id": "q21", "question": "Which Gemini mission achieved the first docking of two spacecraft in orbit?", "answer_keywords": ["Gemini 8"], "gold_docs": ["Project Gemini"], "type": "name"}
+{"id": "q22", "question": "How many crewed flights did Project Gemini have?", "answer_keywords": ["10|ten"], "gold_docs": ["Project Gemini"], "type": "number"}
+{"id": "q23", "question": "How many astronauts flew on each Gemini spacecraft?", "answer_keywords": ["two|2"], "gold_docs": ["Project Gemini"], "type": "number"}
+{"id": "q24", "question": "On what date was Sputnik 1 launched?", "answer_keywords": ["October 4|4 October"], "gold_docs": ["Sputnik 1"], "type": "date"}
+{"id": "q25", "question": "Which country launched Sputnik 1?", "answer_keywords": ["Soviet"], "gold_docs": ["Sputnik 1"], "type": "name"}
+{"id": "q26", "question": "How much did Sputnik 1 weigh?", "answer_keywords": ["83.6"], "gold_docs": ["Sputnik 1"], "type": "number"}
+{"id": "q27", "question": "Which rocket launched Sputnik 1?", "answer_keywords": ["R-7"], "gold_docs": ["Sputnik 1"], "type": "name"}
+{"id": "q28", "question": "Who was the first human to travel into space?", "answer_keywords": ["Gagarin"], "gold_docs": ["Vostok 1"], "type": "person"}
+{"id": "q29", "question": "On what date did Vostok 1 fly?", "answer_keywords": ["April 12|12 April"], "gold_docs": ["Vostok 1"], "type": "date"}
+{"id": "q30", "question": "How long did the Vostok 1 flight last?", "answer_keywords": ["108"], "gold_docs": ["Vostok 1"], "type": "number"}
+{"id": "q31", "question": "When was Skylab launched?", "answer_keywords": ["May 14|14 May"], "gold_docs": ["Skylab"], "type": "date"}
+{"id": "q32", "question": "Which launch vehicle put Skylab into orbit?", "answer_keywords": ["Saturn V"], "gold_docs": ["Skylab", "Saturn V"], "type": "name"}
+{"id": "q33", "question": "How many crewed missions visited Skylab?", "answer_keywords": ["three|3"], "gold_docs": ["Skylab"], "type": "number"}
+{"id": "q34", "question": "Which orbiter flew the first Space Shuttle mission, STS-1?", "answer_keywords": ["Columbia"], "gold_docs": ["Space Shuttle program"], "type": "name"}
+{"id": "q35", "question": "Which two Space Shuttle orbiters were lost in accidents?", "answer_keywords": ["Challenger", "Columbia"], "gold_docs": ["Space Shuttle program"], "type": "list"}
+{"id": "q36", "question": "In what year did the final Space Shuttle flight take place?", "answer_keywords": ["2011"], "gold_docs": ["Space Shuttle program"], "type": "date"}
+{"id": "q37", "question": "How many Space Shuttle orbiters were built and flown in space?", "answer_keywords": ["five|5"], "gold_docs": ["Space Shuttle program"], "type": "number"}
+{"id": "q38", "question": "Which module was the first to be launched for the International Space Station?", "answer_keywords": ["Zarya"], "gold_docs": ["International Space Station"], "type": "name"}
+{"id": "q39", "question": "In what year was the first International Space Station module launched?", "answer_keywords": ["1998"], "gold_docs": ["International Space Station"], "type": "date"}
+{"id": "q40", "question": "Which space agencies are partners in the International Space Station?", "answer_keywords": ["NASA", "Roscosmos", "JAXA", "ESA", "CSA|Canadian"], "gold_docs": ["International Space Station"], "type": "list"}
+{"id": "q41", "question": "Since what date has the International Space Station been continuously occupied?", "answer_keywords": ["November", "2000"], "gold_docs": ["International Space Station"], "type": "date"}
+{"id": "q42", "question": "On what date was the Hubble Space Telescope launched?", "answer_keywords": ["April 24|24 April"], "gold_docs": ["Hubble Space Telescope"], "type": "date"}
+{"id": "q43", "question": "Which Space Shuttle launched the Hubble Space Telescope?", "answer_keywords": ["Discovery"], "gold_docs": ["Hubble Space Telescope", "Space Shuttle program"], "type": "name"}
+{"id": "q44", "question": "What is the diameter of Hubble's primary mirror?", "answer_keywords": ["2.4"], "gold_docs": ["Hubble Space Telescope"], "type": "number"}
+{"id": "q45", "question": "What flaw was found in Hubble's primary mirror after launch?", "answer_keywords": ["spherical aberration"], "gold_docs": ["Hubble Space Telescope"], "type": "cause"}
+{"id": "q46", "question": "Which Space Shuttle orbiter carried out the first Hubble servicing mission?", "answer_keywords": ["Endeavour"], "gold_docs": ["Hubble Space Telescope"], "type": "name"}
+{"id": "q47", "question": "In what month and year was Voyager 2 launched?", "answer_keywords": ["August", "1977"], "gold_docs": ["Voyager program"], "type": "date"}
+{"id": "q48", "question": "Which planets did Voyager 2 visit?", "answer_keywords": ["Jupiter", "Saturn", "Uranus", "Neptune"], "gold_docs": ["Voyager program"], "type": "list"}
+{"id": "q49", "question": "Which Voyager probe was the first to enter interstellar space?", "answer_keywords": ["Voyager 1"], "gold_docs": ["Voyager program"], "type": "name"}
+{"id": "q50", "question": "What disc was attached to each Voyager spacecraft to carry sounds and images of Earth?", "answer_keywords": ["Golden Record"], "gold_docs": ["Voyager program"], "type": "name"}

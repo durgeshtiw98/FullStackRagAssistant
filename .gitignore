@@ -1,0 +1,17 @@
+# Downloaded corpus (CC BY-SA, fetch with scripts/fetch_wikipedia.py) and generated files
+data/corpus/*.txt
+data/index.bin
+data/index.bin.tmp
+data/models/
+.venv/
+eval/results/
+backend/target/
+frontend/node_modules/
+frontend/dist/
+__pycache__/
+.env
+.env.*
+!.env.example
+.DS_Store
+/Screenshot*.png
+/eval/results-groq/

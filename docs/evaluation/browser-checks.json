@@ -1,0 +1,23 @@
+{
+  "status": "1,740 passages indexed · extractive answers",
+  "checks": [
+    {
+      "question": "Who was the commander of Apollo 11?",
+      "answer": "Apollo 11 (July 16–24, 1969) was the American spaceflight that first landed humans on the Moon, and the fifth crewed mission of NASA's Apollo program. The mission was crewed by Commander Neil Armstrong, Command Module Pilot Michael Collins, and Lunar Module Pilot Edwin \"Buzz\" Aldrin, all of whom were on their second and final spaceflight. 3",
+      "citationOpensSource": true
+    },
+    {
+      "question": "What caused the Apollo 13 emergency?",
+      "answer": "The accident happened at 55:54:53 (03:08 UTC on April 14; 10:08 PM EST, April 13). Swigert reported 26 seconds later, \"Okay, Houston, we've had a problem here,\" echoed at 55:55:42 by Lovell, \"Houston, we've had a problem. 2",
+      "citationOpensSource": true
+    },
+    {
+      "question": "When was the Hubble Space Telescope launched?",
+      "answer": "The telescope is an international collaboration between NASA, the European Space Agency, and the Canadian Space Agency since 1996, and was launched on December 25, 2021, on an Ariane 5 rocket. Although JWST is primarily an infrared instrument, its coverage extends down to 600 nm wavelength light, or roughly orange in the visible spectrum. 2",
+      "citationOpensSource": true
+    }
+  ],
+  "mobileOverflow": false,
+  "mobileAnswer": "After Voyager 1 successfully completed its flyby of Saturn and its moon Titan, it was decided that Voyager 2 would continue on its pre-planned trajectory to fly by Uranus and Neptune. After the planetary flybys were complete, decisions were made to keep the probes in operation to explore interstellar space and the outer regions of the Solar System. 1",
+  "browserErrors": []
+}

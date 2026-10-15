@@ -1,0 +1,50 @@
+[
+  {
+    "check": "Spring health and extractive mode",
+    "passed": true
+  },
+  {
+    "check": "blank question returns 400 with error",
+    "passed": true
+  },
+  {
+    "check": "missing question returns 400 with error",
+    "passed": true
+  },
+  {
+    "check": "question exceeds 1000 characters returns 400 with error",
+    "passed": true
+  },
+  {
+    "check": "topK below range returns 400 with error",
+    "passed": true
+  },
+  {
+    "check": "topK above range returns 400 with error",
+    "passed": true
+  },
+  {
+    "check": "Real model returns finite 384-dimensional unit vectors",
+    "passed": true
+  },
+  {
+    "check": "Identical text produces identical embeddings",
+    "passed": true
+  },
+  {
+    "check": "Empty embedding batch rejected",
+    "passed": true
+  },
+  {
+    "check": "All 13 articles are indexed",
+    "passed": true
+  },
+  {
+    "check": "topK honored and extractive citation returned",
+    "passed": true
+  },
+  {
+    "check": "Vite proxy reaches Spring backend",
+    "passed": true
+  }
+]

@@ -1,0 +1,14 @@
+# One Wikipedia article title per line. Lines starting with # are ignored.
+Apollo program
+Apollo 11
+Apollo 13
+Saturn V
+Project Mercury
+Project Gemini
+Sputnik 1
+Vostok 1
+Skylab
+Space Shuttle program
+International Space Station
+Hubble Space Telescope
+Voyager program

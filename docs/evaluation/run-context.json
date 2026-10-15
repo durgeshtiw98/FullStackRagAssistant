@@ -1,0 +1,137 @@
+{
+  "recorded_at": "2026-10-15T11:35:26.616460+00:00",
+  "evaluated_at": "2026-10-15T11:33:26.295021+00:00",
+  "evaluation_command": "python3 -u eval/run_eval.py --delay 0",
+  "answer_mode": "extractive",
+  "groq_tested": false,
+  "reason": "GROQ_API_KEY was not configured",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+  "model_sha256": "6fd5d72fe4589f189f8ebc006442dbb529bb7ce38f8082112682524616046452",
+  "tokenizer_sha256": "be50c3628f2bf5bb5e3a7f17b1f74611b2561a3a27eeab05e5aa30f411572037",
+  "embedding_runtime": "CPUExecutionProvider",
+  "embedding_max_tokens": 128,
+  "threads": 4,
+  "pooling": "attention-mask mean pooling then L2 normalization",
+  "embedding_service": "scripts/serve_embeddings.py",
+  "embedding_url": "http://127.0.0.1:8001",
+  "api_url": "http://127.0.0.1:8080",
+  "frontend_url": "http://127.0.0.1:5173",
+  "chunk_words": 80,
+  "overlap_words": 15,
+  "top_k": 5,
+  "min_score": 0.05,
+  "embed_batch_size": 32,
+  "ingest": {
+    "documents": 13,
+    "chunks": 1740,
+    "dimension": 384,
+    "millis": 15864
+  },
+  "questions_sha256": "0ea8c6212253a3c8f5a36a086bbf12573ac4673ea61d05b9f8e7c310384328a8",
+  "corpus_keyword_verification": "50 questions, 13 articles. All questions check out.",
+  "python_packages": {
+    "fastapi": "0.140.0",
+    "numpy": "1.26.4",
+    "onnxruntime": "1.28.0",
+    "tokenizers": "0.22.2",
+    "uvicorn": "0.35.0"
+  },
+  "persisted_index_reload": {
+    "verified": true,
+    "chunks": 1740
+  },
+  "corpus": [
+    {
+      "file": "data/corpus/apollo-11.txt",
+      "sha256": "ca255321f28ee91953275bfeda23e06c2c32bd93b6de49e51150665b96a6dd1c",
+      "TITLE": "Apollo 11",
+      "URL": "https://en.wikipedia.org/wiki/Apollo_11",
+      "REVISION": "1380193680"
+    },
+    {
+      "file": "data/corpus/apollo-13.txt",
+      "sha256": "195fdaf11783ca3f97ac975a978b3df44838c1cbab2e9da466afbc874a8debff",
+      "TITLE": "Apollo 13",
+      "URL": "https://en.wikipedia.org/wiki/Apollo_13",
+      "REVISION": "1379979802"
+    },
+    {
+      "file": "data/corpus/apollo-program.txt",
+      "sha256": "efb13921708f8a8fca25a2b212b7c08e4cd813f04bac66ea550a0b58656647ca",
+      "TITLE": "Apollo program",
+      "URL": "https://en.wikipedia.org/wiki/Apollo_program",
+      "REVISION": "1378112034"
+    },
+    {
+      "file": "data/corpus/hubble-space-telescope.txt",
+      "sha256": "9c7598f5122c5ca7a38fd862b3d0b47cc23c70a2530c78045ff04c709d390c4d",
+      "TITLE": "Hubble Space Telescope",
+      "URL": "https://en.wikipedia.org/wiki/Hubble_Space_Telescope",
+      "REVISION": "1378228161"
+    },
+    {
+      "file": "data/corpus/international-space-station.txt",
+      "sha256": "6f7bd22da82157312fb457882f9b895d2e09a0a7251d0783fd531c53c2732ede",
+      "TITLE": "International Space Station",
+      "URL": "https://en.wikipedia.org/wiki/International_Space_Station",
+      "REVISION": "1379562415"
+    },
+    {
+      "file": "data/corpus/project-gemini.txt",
+      "sha256": "49d4028c5c693e162908d25470dc0b8cdf9f3790253d52caaf44a810215ba6e8",
+      "TITLE": "Project Gemini",
+      "URL": "https://en.wikipedia.org/wiki/Project_Gemini",
+      "REVISION": "1378545943"
+    },
+    {
+      "file": "data/corpus/project-mercury.txt",
+      "sha256": "3047aff6b9bf22d8762cdd7d6b9a4d8ca8777460cd0ae88873dee83bec54645c",
+      "TITLE": "Project Mercury",
+      "URL": "https://en.wikipedia.org/wiki/Project_Mercury",
+      "REVISION": "1363127065"
+    },
+    {
+      "file": "data/corpus/saturn-v.txt",
+      "sha256": "7e76b83a633ccb92ebd503bac131fef6eb4c0270b280d810cd7fd0284c83dcb8",
+      "TITLE": "Saturn V",
+      "URL": "https://en.wikipedia.org/wiki/Saturn_V",
+      "REVISION": "1368745721"
+    },
+    {
+      "file": "data/corpus/skylab.txt",
+      "sha256": "56a6878904977aa46d764b34a2230934025e2282b1832f73146d66abb1337da0",
+      "TITLE": "Skylab",
+      "URL": "https://en.wikipedia.org/wiki/Skylab",
+      "REVISION": "1377166744"
+    },
+    {
+      "file": "data/corpus/space-shuttle-program.txt",
+      "sha256": "ea3c7abd9add348f38ccb7b464e717bc492e81242ae483b551bdd47ee5f9e818",
+      "TITLE": "Space Shuttle program",
+      "URL": "https://en.wikipedia.org/wiki/Space_Shuttle_program",
+      "REVISION": "1375369886"
+    },
+    {
+      "file": "data/corpus/sputnik-1.txt",
+      "sha256": "f2343fb9b8d60a705e8cd7557fce132019feddd42c51b4b3470851e34bdb25de",
+      "TITLE": "Sputnik 1",
+      "URL": "https://en.wikipedia.org/wiki/Sputnik_1",
+      "REVISION": "1378867201"
+    },
+    {
+      "file": "data/corpus/vostok-1.txt",
+      "sha256": "2d9d41536e4aa4fe498d457cbc52a12df8e119d000a86c8876d87b345f719279",
+      "TITLE": "Vostok 1",
+      "URL": "https://en.wikipedia.org/wiki/Vostok_1",
+      "REVISION": "1373619528"
+    },
+    {
+      "file": "data/corpus/voyager-program.txt",
+      "sha256": "7afa1310f1831dcce1b08a6e8e41f57753984c9ea6acd3915f83e3c061f3be36",
+      "TITLE": "Voyager program",
+      "URL": "https://en.wikipedia.org/wiki/Voyager_program",
+      "REVISION": "1373970297"
+    }
+  ]
+}

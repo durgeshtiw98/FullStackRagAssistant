@@ -1,0 +1,23 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: rag-assistant
+
+rag:
+  # The ONNX embedding service (FastAPI, project 3)
+  embedding-url: ${EMBEDDING_URL:http://localhost:8000}
+  # Paths are relative to the directory you start the backend from (backend/)
+  corpus-dir: ${CORPUS_DIR:../data/corpus}
+  index-path: ${INDEX_PATH:../data/index.bin}
+  # Keep chunk-words at 80 or below: the embedding service truncates at 128 tokens
+  chunk-words: 80
+  overlap-words: 15
+  top-k: 5
+  min-score: 0.05
+  embed-batch-size: 32
+  groq:
+    api-key: ${GROQ_API_KEY:}
+    model: ${GROQ_MODEL:llama-3.3-70b-versatile}
+    base-url: https://api.groq.com/openai/v1
